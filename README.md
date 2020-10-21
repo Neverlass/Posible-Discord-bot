@@ -1,2 +1,5 @@
 # Posible-Discord-bot
 Making a bot or at least trying to.
+I don't expect many to help me with this but if you do, take note. You aren't allowed to delete other's code without asking. If you have questions my Discord is Izuku (Deku) Midoriya#3260.
+This is the overall goal for the bot. It is copy and pasted from a conversation.: "i would think that if we have a bot that gives out a currency you would get the currency with a level up or if you successfully raid a server or post a meme excetera. But the bot would be controlled by the head of the server. You can set roles where you can see the overall money everyone with that role has. Then set it up so the owner of the server can host an even and the owner can select the role that's the winner and that role gets to access the shop where they can buy specific roles or events. This would be a Mixed economy so each day the bot would give the other roles that dont have access to the shop some money so it would keep the lead role on their feet.
+
